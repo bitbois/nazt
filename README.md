@@ -1,2 +1,2 @@
 # nazt
-whoknkows
+whoknows
